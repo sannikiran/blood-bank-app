@@ -27,12 +27,6 @@ The app incorportate following feature for different it twow categories of user:
 - donate blood 
 - request blood 
 
-#### Employee
-- Register & Login
-- Update blood stocks
-- update user health
-- Handle blood request
-
 #### General
 - Search - based on blood group or location
 
